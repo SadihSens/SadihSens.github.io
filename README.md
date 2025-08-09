@@ -104,8 +104,7 @@
         <!-- Información personal -->
         <div class="info">
           <!-- Nombres y apellidos -->
-          <h1 class="name">Tus Nombres Aquí</h1>
-          <h2 class="surname">Tus Apellidos Aquí</h2>
+          <h1 class="fullname">Juan Sebastian Guerrero Ceron</h1>
 
           <!-- Descripción general -->
           <p class="description">Soy [tu nombre], una persona apasionada por [tus intereses o profesión]. Aquí puedes escribir una breve biografía — por ejemplo: formación académica, ocupación actual, pasatiempos, habilidades principales o cualquier dato que quieras destacar en pocas líneas.</p>
