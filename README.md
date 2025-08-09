@@ -98,7 +98,7 @@
         <!-- Recuadro para la imagen -->
         <div class="photo-box" aria-hidden="false">
           <!-- Sustituye "assets/mi-foto.jpg" por la ruta de tu imagen -->
-          <img src="assets/mi-foto.jpg" alt="Foto de perfil">
+          <img src="assets/mi-foto.png" alt="Foto de perfil">
         </div>
 
         <!-- Información personal -->
