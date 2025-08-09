@@ -107,9 +107,7 @@
           <h1 class="fullname">Juan Sebastian Guerrero Ceron</h1>
 
           <!-- Descripción general -->
-          <p class="description">Soy [tu nombre], una persona apasionada por [tus intereses o profesión]. Aquí puedes escribir una breve biografía — por ejemplo: formación académica, ocupación actual, pasatiempos, habilidades principales o cualquier dato que quieras destacar en pocas líneas.</p>
-
-          <p class="hint">Consejo: reemplaza el texto y la imagen en <code>assets/mi-foto.jpg</code> por tus datos reales.</p>
+          <p class="description">Soy Sebastian, una persona apasionada por la programacion y gustos generales por el arte. Estoy en formacion academica, estudio Tecnologia en sistemas, me gusta jugar videojuegos y dibujar de vez en cuando, Tengo habilidad con algunos lenguajes de programacion, tales como Python y JavaScript. Y algo de conocimiento en base de datos como MySQL</p>
         </div>
       </div>
     </div>
